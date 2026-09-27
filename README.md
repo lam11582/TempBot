@@ -1,0 +1,2 @@
+# TempBot
+vot for lohud
